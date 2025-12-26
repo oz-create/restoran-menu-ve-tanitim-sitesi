@@ -2,6 +2,8 @@
 
 Basit bir restoran tanıtım, menü ve rezervasyon ön yüzü uygulaması. Vite + React + TypeScript ile oluşturulmuş, Tailwind CSS ile stillendirilmiş ve veri/kimlik doğrulama için Supabase kullanılan örnek bir projedir.
 
+Demo URL : https://restaurant-website-d-3a5n.bolt.host/
+
 ## Teknolojiler
 - Vite
 - React + TypeScript
